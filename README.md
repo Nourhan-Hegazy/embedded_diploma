@@ -1,2 +1,2 @@
 # embedded_diploma
-Embedded Diploma assignments and quizzes
+Embedded Diploma assignments, quizzes, and exams
